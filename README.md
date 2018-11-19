@@ -2,4 +2,5 @@
 #nama kelompok : 
 Nikki Rufiansya, 
 Jumawal, 
-Afrizal
+Afriza
+
