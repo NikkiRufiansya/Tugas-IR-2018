@@ -4,4 +4,4 @@
 ### Jumawal, <br>
 ### Afriza<br>
 
-<img src="https://prnt.sc/lqx1sh" alt="">
+<img src="https://drive.google.com/drive/u/0/my-drive?hl=id" alt="">
