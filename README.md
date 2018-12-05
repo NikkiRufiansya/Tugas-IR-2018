@@ -1,6 +1,6 @@
 # Tugas-IR-2018
 #nama kelompok : 
-Nikki Rufiansya, 
-Jumawal, 
-Afriza
+###Nikki Rufiansya, <br>
+###Jumawal, <br>
+###Afriza<br>
 
