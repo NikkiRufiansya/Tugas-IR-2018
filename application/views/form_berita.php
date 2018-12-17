@@ -11,7 +11,7 @@
     <title>News Topic Classifier with Prosa.ai</title>
 </head>
 <body>
-    
+    <p>coba commit bisa apa gak??</p>
     <center>
         <h3>News Topic Classifier with Prosa.ai</h3>
         <p>Masukkan berita yang mau di klasifikasi</p>
